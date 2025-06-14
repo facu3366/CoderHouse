@@ -1,0 +1,1 @@
+const parrafo = <p>texto</p>

@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background: #f9f9f9;
+}
+
+.catalogo button {
+  margin: 5px;
+  padding: 10px;
+}
+
+.carrito ul {
+  list-style-type: none;
+  padding: 0;
+}
