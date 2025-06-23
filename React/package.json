@@ -1,16 +1,23 @@
 {
-  "dependencies": {
-    "jquery": "^3.7.1"
-  },
-  "name": "facun",
+  "name": "coderhouse",
   "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000o\u0000d\u0000e\u0000r\u0000H\u0000o\u0000u\u0000s\u0000e\u0000\r\u0000 \u0000",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facu3366/CoderHouse.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/facu3366/CoderHouse/issues"
+  },
+  "homepage": "https://github.com/facu3366/CoderHouse#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }

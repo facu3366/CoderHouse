@@ -44,3 +44,12 @@ document.getElementById("limpiar").addEventListener("click", function () {
   actualizarCarrito();
 });
 
+
+
+function encontrarMapa(num) {
+console.log(5);
+
+  return num * 2;
+}
+
+console.log(encontrarMapa(5));
